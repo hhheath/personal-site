@@ -11,7 +11,7 @@ You can find what I'm working on _right now_ on my [now page](/now).
 
 ### Recent posts:
 
-{% for post in collections.posts %}
+{% for post in collections.posts reversed %}
 
 [{{post.data.title}}]({{post.url}}) - {{post.data.teaser}}
 
