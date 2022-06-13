@@ -13,6 +13,8 @@ Here's all the hardware I'm working with. I use a surprising amount.
 
 - **iPhone 13 Pro:** I actually switch phones pretty often. My phone is, as I'm assuming it is for most people, an extension of me. So, because of that, what phone I'm changes with how I'm feeling. I think this is my last iPhone, and I still use my Pixel 6 throughout the day. 
 
+- **Google Pixel 6:** This one is actually an interesting one. I currently run [ProtonAOSP](https://protonaosp.org/) on it. As I mentioned above, I do end up changing phones pretty often. I end up using this phone for a lot of testing things like Open Source Android OS's, sandboxing Google Apps with [MicroG](https://microg.org/). There's probably a post coming up where I give my $0.02 on privacy. All to say, I switch phones a lot, so I keep this one around, charged, turned on, and within arms reach at mostly all times.
+
 - **Whoop 4.0:** In my endless pursuit to lose weight and track everything about me, I wear a [Whoop 4.0](https://www.whoop.com/). "Why not just wear an Apple Watch?" you ask... well, I address that next, but it's mostly because it't compatible with both iOS and Android (see above). 
 
 - **Apple Watch Series 6:** Closing my rings are addicting. I like being able to delete emails from my wrist without picking up my phone. I like being able to leave my phone on silent. There are a lot of reasons to keep wearing an Apple Watch, but it's becoming increasingly more of a chore. The Whoop plus a regular watch might be the coming switch. 
