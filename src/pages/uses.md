@@ -5,6 +5,8 @@ date: Last Modified
 
 This is a page dedicated to the tools that I use and what I use them for. If you'd like to know more or have questions, hit me up on [Twitter](https://twitter.com/hhheath_). 
 
+**This is a work in progress...**
+
 ## Hardware
 
 Here's all the hardware I'm working with. I use a surprising amount. 
