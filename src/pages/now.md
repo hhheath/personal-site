@@ -19,7 +19,7 @@ Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Customer E
 
 ## Reading
 
-I'm in the middle of [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash). I'm also starting [The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) and [How to Live](https://sive.rs/h). 
+- [Start With Why](https://en.wikipedia.org/wiki/Start_with_Why)
 
 ## What else?
 
