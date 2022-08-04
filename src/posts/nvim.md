@@ -1,4 +1,10 @@
-# I'm switching to Neovim
+---
+title: I'm switching to Neovim
+teaser: From Visual Studio Code, to Codium, to Emacs, now Neovim. I've switched for a simple reason. 
+date: Created
+---
+
+Created on: {{page.date}}
 
 Really, by this, I mean that I'm starting to test Neovim as a replacement for Visual Studio Code.
 
