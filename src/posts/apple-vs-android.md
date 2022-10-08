@@ -1,7 +1,7 @@
 ---
 title: My struggle with Apple & iOS vs Android
 teaser: I think a lot about the differences between the two mobile operating systems (and resulting ecosystems). This post intends to get all my thoughts out there.
-date: Created
+date: 2022-10-08
 ---
 
 Created on: {{page.date}}

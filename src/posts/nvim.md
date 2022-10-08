@@ -1,7 +1,7 @@
 ---
 title: I'm switching to Neovim
 teaser: From Visual Studio Code, to Codium, to Emacs, now Neovim. I've switched for a simple reason. 
-date: Created
+date: 2022-08-03
 ---
 
 Created on: {{page.date}}

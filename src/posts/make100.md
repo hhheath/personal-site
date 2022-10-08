@@ -1,7 +1,7 @@
 ---
 title: Make100
 teaser: Let's make something for 100 days straight.
-date: Created
+date: 2022-05-01
 ---
 
 Created on: {{page.date}}
