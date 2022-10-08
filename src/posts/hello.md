@@ -1,7 +1,7 @@
 ---
 title: Hello from 11ty
 teaser: The first post.
-date: Created
+date: 2022-04-29
 ---
 
 Created on: {{page.date}}
