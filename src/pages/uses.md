@@ -24,6 +24,13 @@ Here's all the hardware I'm working with. I use a surprising amount.
 - **Framework Laptop:** My _main_ laptop. I just freaking love this thing. Their [purpose](https://frame.work/about) is something that I really admire, support, and want to see succeed. I **love** the idea of not having to think about buying a _whole new_ laptop if something in this one were to break or die. I really like the idea that I can just buy new RAM, or buy a bigger hard drive if things aren't performing like I need them to. The expansion cards are such a key component of this thing, too. Not having to carry around a dongle is \*Chef's Kiss\*. 
 - **[MSI GS66 Stealth Pro](https://us.msi.com/Laptop/GS66-Stealth-10SX/Overview):** My gaming/3D design laptop. I keep this laptop because I do spend a lot of time video gaming with friends. I also do some 3D printing & 3D design, so having a Windows laptop with a dedicated GPU. There are a lot of things to like about this computer, and some things to not like. But, overall, I do like having this laptop. Though, I do see an eGPU involved in my setup. 
 
+### Software
+
+The software I use is always in a state of flux, but there are always a few staples that I _always_ use. 
+
+- **Obsidian:** A really, _really_ good skin to plain text notes that enables me to connect notes together. I primarily write plain text (see [write plain text](https://sive.rs/plaintext) by Derek Sivers) since I'm able to write/edit on any device using any program, but Obsidian provides a really nice skin to plain text with things like plugins and hot keys and connecint notes so that you can connect thoughts as you write. There's a lot that I could say about this software, but I think I'll leave it at: If you're looking for a note taking app that does it all, look no further than Obisidian. 
+- **Neovim:** I write about it [here](/posts/nvim/). I still use VS Code often, as I'm in a customer facing role, it's just easier to show people things in VS Code than it is neovim. The native support for Jupyter Notebooks is a pretty large benefit as well, as I do write & run a lot of those. 
+
 ### Everyday Carry / Misc.
 
 I carry a smattering of other tech with me in my backpack, but not a lot of it is worth mentioning as it is mostly cables, dongles, and other stuff. I also am pretty particular about my peripherals at my desk and while I travel, so here they are!
