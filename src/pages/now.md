@@ -7,7 +7,7 @@ This is a [now page](https://nownownow.com/about).
 
 ## What I'm up to _right now_
 
-Updated on **2022-11-05** from **Cincinnati, OH**
+Updated on **2023-02-27** from **Chicago, IL**
 
 ## Work
 
@@ -19,14 +19,11 @@ Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Customer E
 
 ## Reading
 
-- [Einstein](https://www.simonandschuster.com/books/Einstein/Walter-Isaacson/9780743264747)
-- [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- [Hyperion Cantos #2 - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) (warning: spoilers in that link)
 
 ## What else?
 
-I'm still infatuated with cooking. I'm very lucky to live within walking distace to [Findlay Market](https://www.findlaymarket.org/) so my access to high quality, local produce and meat. I've really leveled up my cooking game recently. I am really working on trying to get the recipes I really like down to just 1 or 2 servings rather than 4-6 servings.
-
-I have an urge to write more software. I really want to get good at this skill. So, keep an eye out for some content on that. I'll try to remember to link it here. 
+I've recently moved to Chicago, IL where I'm living with my best friend for the foreseeable future.
 
 ## URLs
 
