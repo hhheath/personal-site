@@ -4,7 +4,7 @@ teaser: I think a lot about the differences between the two mobile operating sys
 date: 2022-10-08
 ---
 
-Created on: {{page.date}}
+Created on: 2022-10-08
 
 I can remember each and every cell phone I've used in the past, and once touchscreen smartphones hit the market with the original iPhone in 2007, my devices have been a smattering of both Android and iOS with a pretty even split. In today's landscape, though, I'm not sure what my next step should be. 
 
