@@ -91,7 +91,7 @@ a:focus {
 
 article img {
   display: block;
-  width: 100%;
+  /* width: 100%; */
   min-height: 20rem;
   max-height: 40vh;
   object-fit: cover;
