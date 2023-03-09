@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Beginning of Mindr | HB</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  
+
+<nav>
+  <ul role="list">
+    <li>
+      <a  href="/">Home</a>
+    </li>
+
+    
+    <li>
+      <a 
+         
+        href="/now/">
+          Now
+      </a>
+    </li>
+    <li>
+      <a 
+         
+        href="/uses/">
+          Uses
+      </a>
+    </li>
+  </ul>
+</nav>
+
+  
+<header>
+  <h1>The Beginning of Mindr</h1>
+</header>
+<main>
+  <article>
+    <p>Created on: Mon Nov 07 2022 18:00:00 GMT-0600 (Central Standard Time)</p>
+<p><em>This the first edition of (hopefully) many as I build this app in public.</em></p>
+<p>I'm a forgetful person. Maybe it's just who I am, maybe it's my undiagnosed ADHD like The Algorithms think I have. Either way, I need a self-hostable way to send myself reminders on a recurring basis. Things like: Fill up water bottle, drink water, load/unload dishwasher, etc. So, let's build it for everyone to use.</p>
+<p>Sure, I could get this done with just a simple simple script for each task, but what's the fun in that? I want a big project for myself, so this is it!</p>
+<h2>How</h2>
+<p>At home, my own server a set of services in docker containers behind a <a href="https://traefik.io/traefik/">Traefik</a> proxy. I host things like Nextcloud, ArchiveBox, Wallabag, etc. So, Mindr will be a docker-first, self-hostable application.</p>
+<p>My initial thoughts are to use <a href="https://temporal.io">Temporal</a> as the backend for the jobs that will be created. Ideally, a user will login, and be able to create a new <strong>remindr</strong>. Each remindr will schedule a new workflow run in Temporal. Each remindr will have, at launch, 3 options for sending remindrs:</p>
+<ol>
+<li>SMS - through twilio.</li>
+<li>Email - through sendgrid.</li>
+<li>Webhook - just an HTTP request to a URL.</li>
+</ol>
+<h2>Thoughts of Grandeur</h2>
+<p>This will, without a doubt, always be a 100% free &amp; open source project and always available for those who want to run &amp; scale their own version.</p>
+<p>I also want to try to run a managed service for this, as well. I don't know how I'd do that, but it's something I'd like to do.</p>
+<hr>
+<p>In any case, I always want your input! Hit me up on <a href="https://mastodon.social/@hheath_">Mastodon</a>. Eventually, I'll find a good place to put a repo and start working on it now.</p>
+<p>Maybe <a href="https://gitea.io/en-us/">Gitea</a>?</p>
+<p>Until next time...</p>
+
+  </article>
+</main>
+
+</body>
+</html>
