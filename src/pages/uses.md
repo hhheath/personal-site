@@ -29,6 +29,7 @@ The software I use is always in a state of flux, but there are always a few stap
 
 - **Obsidian:** A really, _really_ good skin to plain text notes that enables me to connect notes together. I primarily write plain text (see [write plain text](https://sive.rs/plaintext) by Derek Sivers) since I'm able to write/edit on any device using any program, but Obsidian provides a really nice skin to plain text with things like plugins and hot keys and connecint notes so that you can connect thoughts as you write. There's a lot that I could say about this software, but I think I'll leave it at: If you're looking for a note taking app that does it all, look no further than Obisidian. 
 - **Neovim:** I write about it [here](/posts/nvim/). I still use VS Code often, as I'm in a customer facing role, it's just easier to show people things in VS Code than it is neovim. The native support for Jupyter Notebooks is a pretty large benefit as well, as I do write & run a lot of those. 
+- **Helix:** A newcomer to the group of software, but I'm trying out the Helix editor (at least on my windows machine). There's really no reason for me to be testing this out, I just like to try things out :)
 
 ## Everyday Carry / Misc.
 

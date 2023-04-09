@@ -20,6 +20,7 @@ Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Customer E
 ## Reading
 
 - [Hyperion Cantos #2 - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) (warning: spoilers in that link)
+- [The Brain That Changes Itself](https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100)
 
 ## What else?
 
