@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Now | HB</title>
-  <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-  
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Now | HB</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script
+      type="module"
+      src="https://unpkg.com/@puzzlelabs/puzzle-glossary/dist/puzzle-glossary/puzzle-glossary.esm.js"
+    ></script>
+  </head>
+  <body>
+    
 
 <nav>
   <ul role="list">
@@ -34,7 +38,7 @@
   </ul>
 </nav>
 
-  
+    
 <header>
   <h1>Now</h1>
 </header>
@@ -50,6 +54,7 @@
 <h2>Reading</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)">Hyperion Cantos #2 - The Fall of Hyperion</a> (warning: spoilers in that link)</li>
+<li><a href="https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100">The Brain That Changes Itself</a></li>
 </ul>
 <h2>What else?</h2>
 <p>I've recently moved to Chicago, IL where I'm living with my best friend for the foreseeable future.</p>
@@ -64,5 +69,35 @@
   </article>
 </main>
 
-</body>
+    <highlight-widget api-key="644d9c8f8ec39d1b59d63296"></highlight-widget>
+    <script>
+      const widget = document.querySelector("highlight-widget");
+      widget.config = {
+        puzzleBranding: true,
+        hasMarkAll: true,
+        hasMarkHyperlink: true,
+        callToAction: {
+          text: "CTA",
+          link: "https://puzzlelabs.ai",
+        },
+        selectors: ["body"],
+      };
+      widget.theme = {
+        mode: "light",
+        marker: {
+          color: "#E7FF57",
+          type: "highlight",
+        },
+        modal: {
+          backgroundColor: "#E7E8FE",
+          primaryColor: "#000",
+          secondaryColor: "#74747F",
+        },
+        callToAction: {
+          color: "#fff",
+          backgroundColor: "#000",
+        },
+      };
+    </script>
+  </body>
 </html>

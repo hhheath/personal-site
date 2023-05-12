@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Make100 | HB</title>
-  <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-  
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Make100 | HB</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script
+      type="module"
+      src="https://unpkg.com/@puzzlelabs/puzzle-glossary/dist/puzzle-glossary/puzzle-glossary.esm.js"
+    ></script>
+  </head>
+  <body>
+    
 
 <nav>
   <ul role="list">
@@ -34,7 +38,7 @@
   </ul>
 </nav>
 
-  
+    
 <header>
   <h1>Make100</h1>
 </header>
@@ -69,5 +73,35 @@ Sweat? Work it.</p>
   </article>
 </main>
 
-</body>
+    <highlight-widget api-key="644d9c8f8ec39d1b59d63296"></highlight-widget>
+    <script>
+      const widget = document.querySelector("highlight-widget");
+      widget.config = {
+        puzzleBranding: true,
+        hasMarkAll: true,
+        hasMarkHyperlink: true,
+        callToAction: {
+          text: "CTA",
+          link: "https://puzzlelabs.ai",
+        },
+        selectors: ["body"],
+      };
+      widget.theme = {
+        mode: "light",
+        marker: {
+          color: "#E7FF57",
+          type: "highlight",
+        },
+        modal: {
+          backgroundColor: "#E7E8FE",
+          primaryColor: "#000",
+          secondaryColor: "#74747F",
+        },
+        callToAction: {
+          color: "#fff",
+          backgroundColor: "#000",
+        },
+      };
+    </script>
+  </body>
 </html>
