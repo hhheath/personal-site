@@ -73,35 +73,47 @@ Sweat? Work it.</p>
   </article>
 </main>
 
-    <highlight-widget api-key="644d9c8f8ec39d1b59d63296"></highlight-widget>
     <script>
-      const widget = document.querySelector("highlight-widget");
-      widget.config = {
-        puzzleBranding: true,
-        hasMarkAll: true,
-        hasMarkHyperlink: true,
-        callToAction: {
-          text: "CTA",
-          link: "https://puzzlelabs.ai",
-        },
-        selectors: ["body"],
-      };
-      widget.theme = {
-        mode: "light",
-        marker: {
-          color: "#E7FF57",
-          type: "highlight",
-        },
-        modal: {
-          backgroundColor: "#E7E8FE",
-          primaryColor: "#000",
-          secondaryColor: "#74747F",
-        },
-        callToAction: {
-          color: "#fff",
-          backgroundColor: "#000",
-        },
-      };
+        document.addEventListener('highlightWidgetReady', function() {
+        highlightWidgetManager.config = {
+          // It needs to select specific parts of page:
+          selectors: ['body'],
+          // It needs to mark words one time:
+          hasMarkAll: false,
+          // It needs not to mark hyperlinks:
+          hasMarkHyperlink: false,
+          },
+
+        highlightWidgetManager.theme = {
+          // It needs to change mode (dark/light):
+          mode: 'light',
+          // It needs to change font (make sure this is added to website):
+          fontFamily: '',
+          // It needs to change style and type (highlight/underline) of marker:
+          marker: {
+            color: '#E7FF57',
+            type: 'highlight',
+          },
+          // It needs to change style of CTA (Call to action):
+          callToAction: {
+            color: '#fff',
+            backgroundColor: '#000',
+          },
+          // It needs to change style of widget modal:
+          modal: {
+            primaryColor: '#000',
+            secondaryColor: '#74747F',
+            backgroundColor: '#E7E8FE',
+          },
+        };
+
+        // first argument is glosary id, { mark: true } say manager after initialization highlight concept automaticaly
+        highlightWidgetManager.init('644d9c8f8ec39d1b59d63296', { mark: true });
+        // Or you can mark separetly
+        // highlightWidgetManager.init('6437d691b3c98451b429460f').then(() => {
+        //    highlightWidgetManager.mark();
+        // });
+      })
     </script>
   </body>
 </html>
