@@ -11,8 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/5t3ph/smol-11ty-starter.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "hhheath",
   "license": "ISC",
   "bugs": {

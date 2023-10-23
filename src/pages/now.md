@@ -7,7 +7,7 @@ This is a [now page](https://nownownow.com/about).
 
 ## What I'm up to _right now_
 
-Updated on **2023-02-27** from **Chicago, IL**
+Updated on **2023-10-23** from **Chicago, IL**
 
 ## Work
 
@@ -19,8 +19,7 @@ Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Customer E
 
 ## Reading
 
-- [Hyperion Cantos #2 - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) (warning: spoilers in that link)
-- [The Brain That Changes Itself](https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100)
+- [Double Cross](https://www.goodreads.com/book/show/43652.Double_Cross)
 
 ## What else?
 
