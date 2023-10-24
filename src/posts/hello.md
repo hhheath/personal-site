@@ -2,6 +2,8 @@
 title: Hello from 11ty
 teaser: The first post.
 date: 2022-04-29
+tags:
+    - hello
 ---
 
 Created on: {{page.date}}

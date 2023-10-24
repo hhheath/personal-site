@@ -2,6 +2,8 @@
 title: Make100
 teaser: Let's make something for 100 days straight.
 date: 2022-05-01
+tags:
+    - maker
 ---
 
 Created on: {{page.date}}

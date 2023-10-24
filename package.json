@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "clean": "rm -rf _site",
+    "clean-start": "rm -rf _site && eleventy --serve"
   },
   "repository": {
     "type": "git",

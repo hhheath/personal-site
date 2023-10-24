@@ -2,6 +2,9 @@
 title: I'm switching to Neovim
 teaser: From Visual Studio Code, to Codium, to Emacs, now Neovim. I've switched for a simple reason. 
 date: 2022-08-03
+tags:
+    - tech
+    - software
 ---
 
 Created on: {{page.date}}

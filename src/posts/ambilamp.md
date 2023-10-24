@@ -2,6 +2,10 @@
 title: The AmbiLamp
 teaser: I designed and 3D printed my own Ambient Lamp, and am releasing the files for anyone to make one themselves!
 date: 2023-03-05
+tags:
+    - design
+    - 3D Printing
+    - maker
 ---
 
 ## How to print & assemble the AmbiLamp

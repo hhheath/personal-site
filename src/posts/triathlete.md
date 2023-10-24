@@ -2,6 +2,9 @@
 title: I am a Triathlete
 teaser: I finished the 2023 Chicago Supersprint Triathlon. That's just the beginning.
 date: 2023-09-12
+tags:
+    - training
+    - triathlon
 ---
 
 I did it. I finished the 2023 Chicago Supersprint Triathlon on August 26, 2023. Sure, the swim was wasn't really the "real" swim, but the 125m splash-n-dash was even harder than the swim. Here are the distances for the supersprint I did: 

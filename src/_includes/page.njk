@@ -6,6 +6,13 @@ layout: base.njk
   <h1>{{ title }}</h1>
 </header>
 <main>
+  <ul>
+  {% for tag in tags %}
+    <li>
+      <a href="/posts/tag/{{ tag | slugify }}">{{ tag }}</a>
+    </li>
+  {% endfor %}
+  </ul>
   <article>
     {{ content | safe }}
   </article>
