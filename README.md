@@ -7,3 +7,5 @@ Started from [Stephanie Eckles'](https://github.com/5t3ph) [smol eleventy starte
 This website is way more fun with [Neovim](https://neovim.io/)
 
 What else should I add to this site? Add an issue to let me know! :) 
+
+:wave:
