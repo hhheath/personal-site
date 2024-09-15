@@ -7,27 +7,33 @@ This is a [now page](https://nownownow.com/about).
 
 ## What I'm up to _right now_
 
-Updated on **2023-10-23** from **Chicago, IL**
+Updated on **2024-09-15** from **Chicago, IL**
+
+## Where 
+
+Currently living in the Southwest Subrubs of Chicago. 
 
 ## Work
 
-Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Customer Experience Engineer. I started here on April 18, 2022 after my time at [Losant](https://www.losant.com). I'm really looking forward to this new challenge, and I really believe I'll have a great impact here. 
+Currently I'm at [PredictHQ](https://www.predicthq.com/) working as a Solutions Engineer after spending my first two years with PredictHQ as a Customer Experience Engineer. I started here on April 18, 2022 after my time at [Losant](https://www.losant.com). I'm really looking forward to this new challenge, and I really believe I'll have a great impact here. 
 
 ## Writing
 
-[This site](https://github.com/hhheath/pw4). I want to write more about the things that I read and take in. As well as get my opinions and thoughts about current events out there. I take a lot of notes and I read a lot of stuff every day, I want to write about them. 
+[This site](https://github.com/hhheath/personal-site). I want to write more about the things that I read and take in. As well as get my opinions and thoughts about current events out there. I take a lot of notes and I read a lot of stuff every day, I want to write about them. 
 
 ## Reading
 
-- [Double Cross](https://www.goodreads.com/book/show/43652.Double_Cross)
+- The Way of Kings by Brandon Sanderson
 
 ## What else?
 
-I've recently moved to Chicago, IL where I'm living with my best friend for the foreseeable future.
+I'm still actively spending time working on my athletic endurance. I have big plans for 2025 in the way of races that I want to do and where I want to take my fitness. In the past 18 months, I've lost 90lbs, and am looking to lose another 50ish before my first race in April of 2025. 
+
+I've also recently gotten the itch to write more code. So, I'm looking for a nice little project to work on to bring those skills of mine back to the top. I've also really been taken by peer to peer networks, filesharing, and communications.
 
 ## URLs
 
-- ~~[Twitter](https://twitter.com/hhheath_)~~ [Mastodon](https://mastodon.social/@hheath_) (I still have Twitter, but I've decided to move to Mastodon & the [Fediverse](https://en.wikipedia.org/wiki/Fediverse))
+- [Mastodon](https://mastodon.social/@hheath_)
 - [Instagram](https://instagram.com/hhheath_)
 - [Github](https://github.com/hhheath)
-- [Last.fm](https://www.last.fm/user/cloolis)
+
