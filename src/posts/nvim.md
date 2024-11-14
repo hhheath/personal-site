@@ -4,15 +4,21 @@ teaser: From Visual Studio Code, to Codium, to Emacs, now Neovim. I've switched 
 date: 2022-08-03
 ---
 
+## Update as of 2024-11-13
+
+I main neovim these days. I mostly write markdown and python with a dash of c++ here and there. You can find my config, written in lua, on [my github](https://github.com/hhheath/nvim).
+
+I also use [Catppuccin Mocha](https://catppuccin.com/) for _everything_ now. Which, is mostly just Wezterm, neovim, and vscode at this point. 
+
 Created on: {{page.date}}
 
 Really, by this, I mean that I'm starting to test Neovim as a replacement for Visual Studio Code.
 
-One of the things that I've learned, is that if you can just make things _easier_ for people with computers (i.e. obfusicate the technical skill required to dothings) then you will have a successful tool/product. Visual Studio Code obfusicated the process by which people were able to customize their text editor. 
+One of the things that I've learned, is that if you can just make things _easier_ for people with computers (i.e. obfuscate the technical skill required to dothings) then you will have a successful tool/product. Visual Studio Code obfusicated the process by which people were able to customize their text editor. 
 
 ## Why Switch to Neovim?
 
-Well, that's probably a really good question. I started a new job recently and the inital laptop I was given was pretty low powered in the hardware department, and I needed a text editor that required much fewer resources than a vscode or [Obsidian](https://obsidian.md/). So, I started with emacs, specifically, [doom emacs](https://github.com/doomemacs/doomemacs), and I really liked it. The only issue I really wasn't having a great time with was how scaling worked on my Framework laptop paired with my typeface of choice, [IBM Plex Mono](https://github.com/IBM/plex). Another thing that I want to point out is that I mostly write plain text in markdown. Org mode was something I was not interested in and, from what I've seen online, that's about 80-precent of the reason to use Emacs.
+Well, that's probably a really good question. I started a new job recently and the initial laptop I was given was pretty low powered in the hardware department, and I needed a text editor that required much fewer resources than a vscode or [Obsidian](https://obsidian.md/). So, I started with emacs, specifically, [doom emacs](https://github.com/doomemacs/doomemacs), and I really liked it. The only issue I really wasn't having a great time with was how scaling worked on my Framework laptop paired with my typeface of choice, [IBM Plex Mono](https://github.com/IBM/plex). Another thing that I want to point out is that I mostly write plain text in markdown. Org mode was something I was not interested in and, from what I've seen online, that's about 80% of the reason to use Emacs.
 
 So, I made the switch to Neovim. I'm using a "mainstream" config in [NvChad](https://nvchad.github.io/). Neovim gives me the tools of a modern text editor without the bloat (read: electron) and with just enough customization to make it exactly how I want. It also has the benefit of being solely focused on the text out-of-the-box. With the extensions that come with NvChad, I was already 90-or-so percent of the way to my ideal setup AND it assumed the font of my terminal. 
 

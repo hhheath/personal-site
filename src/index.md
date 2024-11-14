@@ -5,9 +5,9 @@ layout: page.njk
 
 ## Welcome.
 
-This is a place for me to write sweet nothings about the things that I find important right now. 
-
 You can find what I'm working on _right now_ on my [now page](/now). 
+
+The theme for this website uses the same color palette as [Catppuccin Mocha](https://catppuccin.com/). I just put the colors where I think they fit best. 
 
 ### Recent posts:
 
