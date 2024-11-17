@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url("./IBMPlexSans-Regular.ttf");
+}
 /* Very Smol Reset */
 * {
     box-sizing: border-box;
@@ -13,7 +17,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
-    font-family: system-ui, sans-serif;
+    font-family: "IBM Plex Sans";
     line-height: 1.5;
     margin-bottom: 100px;
 }

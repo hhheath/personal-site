@@ -20,7 +20,7 @@ I want to spend a bit of time in this post talking about where I was when I star
 
 **376.8 lbs**
 
-That's what I weighed in March of 2023, and well on my way to getting way heavier. Sedantary lifestyle, excessive drinking, and eating whatever I wanted, whenever I wanted and however much I wanted. I really don't like the clichés that get used when explaining these kinds of situations, but I realize now, now that I'm on the other side of it, that those clichés are there for a reason. It really was a rough path, and one I can confidently say I was going to be on for a long time had I not changed it. 
+That's what I weighed in March of 2023, and well on my way to getting way heavier. Sedentary lifestyle, excessive drinking, and eating whatever I wanted, whenever I wanted and however much I wanted. I really don't like the clichés that get used when explaining these kinds of situations, but I realize now, now that I'm on the other side of it, that those clichés are there for a reason. It really was a rough path, and one I can confidently say I was going to be on for a long time had I not changed it. 
 
 I wasn't moving my body. I was staying up way too late, waking up mere minutes before I needed to be online for work (WFH life goes crazy), and I was ordering food for lunch and dinner. I was treating my body like a dumpster rather than a temple. 
 

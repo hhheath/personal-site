@@ -13,6 +13,7 @@ The theme for this website uses the same color palette as [Catppuccin Mocha](htt
 
 {% for post in collections.posts reversed %}
 
-[{{post.data.title}}]({{post.url}}) - {{post.data.teaser}}
+[{{post.data.title}}]({{post.url}}) ({{post.date | asPostDate }}) -- {{post.data.teaser}}
 
 {% endfor %}
+
