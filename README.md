@@ -8,3 +8,8 @@ This website is way more fun with [Neovim](https://neovim.io/)
 
 What else should I add to this site? Add an issue to let me know! :) 
 
+## Notes
+
+- posts are generated and rendered as an [11ty Collection](https://www.11ty.dev/docs/collections/). 
+- dates in 11ty are assumed to be UTC: https://www.11ty.dev/docs/dates/
+
